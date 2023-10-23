@@ -7,4 +7,6 @@ FastApi Demo that runs locally and in Deta Space: https://deta.space/
 # Dependencies
 * FastAPI
 * Uvicorn
-* SQLAlquemy (and sqllite)
+* Database:
+  * SQLAlquemy (and sqllite) OR 
+  * Deta database
